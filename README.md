@@ -1,4 +1,4 @@
-## About Laravel
+## About NaverScrapper
 Naver scrapper parse the Naver blog DOM to extract likes and Comments
 
 ## Usage
